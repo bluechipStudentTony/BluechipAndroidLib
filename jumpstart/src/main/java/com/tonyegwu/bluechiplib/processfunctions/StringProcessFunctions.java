@@ -17,7 +17,6 @@ public class StringProcessFunctions {
         return matcher.matches();
     }
 
-
     //date process functions from long millisecond values
 
     public static String getDateString(long date){
@@ -28,6 +27,7 @@ public class StringProcessFunctions {
 
         return date_string;
     }
+
 
     public static String getDateDay(long date){
         String date_string = "The date";
