@@ -2,7 +2,7 @@
 Android Library with basic functions
 
 
-#Gradle
+# Gradle
 
 ```
     dependencies{
